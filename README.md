@@ -13,7 +13,7 @@ $ open http://cppcheck.sourceforge.net
 
 ## Links
 
-- [Cppcheck](https://tmux.github.io)http://cppcheck.sourceforge.net/manual.pdf
+- [Cppcheck](https://tmux.github.io)http://cppcheck.sourceforge.net/manual.pdf)
 
 ```
 Copyright (c) 2017 Братья Вершинины
