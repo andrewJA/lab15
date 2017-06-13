@@ -2,7 +2,7 @@
 
 Данная лабораторная работа посвещена изучению инструментов статического анализа кода на примере **cppcheck**
 
-```bash
+```ShellSession
 $ open http://cppcheck.sourceforge.net
 ```
 
